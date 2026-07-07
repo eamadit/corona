@@ -1,9 +1,15 @@
 # corona
 
-A CORONA-based energy-harvesting wireless body sensor networks Hardened Private Bluetooth interface
+A CORONA-based energy-harvesting wireless body sensor network Hardened private Bluetooth interface
 
-QDCA microcircuits have been found in some Covid-19 Pfizer batches of vaccines: https://legacktem.com/blog-english/2022/02/18/microcircuits-in-vaccines/
+QDCA microcircuits have been found in some Covid-19 Pfizer batches of vaccines:
 
-People injected with the microcircuits are not counted officially, no secure framework of interface implementation has been provided. This means we are in a state of imminent peril.
+[1] https://web.archive.org/web/20230323021943/https://legacktem.com/blog-english/2022/02/18/microcircuits-in-vaccines/
 
-Open research shall be made on the functions of the microcircuits and the press shall alert populations in order to encourage injected people to repeat the experiment on the link provided above and, if injected with microcircuits, to acquire our CORONA in order to isolate their microcircuits from the internet and control the body sensor data they leak.
+People injected with the microcircuits have not been counted, no secure framework of interface implementation has been provided. Nobody knows if the microcircuits really worked or not because Bluetooth is RF cyber forged from cell towers and power lines:
+
+[2] https://www.youtube.com/watch?v=6hUM-4nqtE8
+
+Please encourage injected people to repeat the experiment on the link [1], if it looks like they have been injected with microcircuits, they could isolate their microcircuits from the internet and control the body sensor data they leak with the present Bluetooth interface project.
+
+QDCA microcircuits for energy-harvesting wireless body sensor network probably do not last long, if they ever worked, which is almost impossible given the idiocy of their designers.
